@@ -20,7 +20,7 @@ class Game
   end
 
   def game_ended(turn_count)
-    return unless turn_count >= 5
+    return false if turn_count < 5
 
     WINNING_COMBO.each do |arr_val|
       if @player1.square.intersection(arr_val) == arr_val

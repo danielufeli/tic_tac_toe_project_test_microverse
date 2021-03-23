@@ -1,5 +1,5 @@
 class Board
-  attr_reader :board_cell
+  attr_accessor :board_cell
 
   def initialize
     @board_cell = [1, 2, 3, 4, 5, 6, 7, 8, 9]
