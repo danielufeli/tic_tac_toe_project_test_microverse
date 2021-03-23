@@ -28,8 +28,12 @@ Good luck...
 - Linkedin: [danielufeli](https://www.linkedin.com/in/danielufeli/)
 bust_in_silhouette Daniel Ufeli
 
-handshake Contributing
+## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/danielufeli/tic_tac_toe_project_test_microverse/issues).
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
