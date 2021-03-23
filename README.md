@@ -5,21 +5,33 @@ A tic-tac-toe game on the command line where two human players can play against 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-Go to the main page of the repo.
-Press the "Code" button and get the repo link.
-paste the repository link on the like: `git clone [git-address]`
-on the CLI, run `bin/main.rb` to initialize the game.
+- Go to the main page of the repo.
+- Press the "Code" button and get the repo link.
+- paste the repository link on the like: `git clone [git-address]`
+- on the CLI, run `bin/main.rb` to initialize the game.
+
+## Testing the game
+
+This game was tested using [RSpec](https://rspec.info/) which is a ruby testing tool. We tested all the public methods of the project Tic Tac Toe.
+
+### Run the test
+- Open the terminal window and type rspec
 
 ## How to play the game. 
-Tic tac toe is a game of two players. Each players chooses chooses a name and an icon as an input. The resulting board contains 9 cells, each of which is to be filled in turns by the two players until there is no empty slot. As soon as the cell's slot are all filled, the game either comes to an end when there is no winner or when a player accumulating icons makes a straight either ways on the board. when this happens, there is a WINNER. The game allows for match on the board on vertical, horizontal and even diagonals for a win.
+Tic tac toe is a game of two players. 
+Each players chooses chooses a name and an icon as an input.
+The resulting board contains 9 cells, each of which is to be filled in turns by the two players until there is no empty slot. 
+As soon as the cell's slot are all filled, the game either comes to an end when there is no winner or when a player accumulating icons makes a straight either ways on the board. 
+when this happens, there is a WINNER.
+The game allows for match on the board on vertical, horizontal and even diagonals for a win.
 The player 1 puts his/her name at the prompt to do so do player2. They also choose their icon.
 
 
 ## Rules of the game. 
-players are not to select an already selected slot.
-you choose a number as visible on the board.
+- Players are not to select an already selected slot.
+- You choose a number as visible on the board.
 
-Good luck...
+## Authors
 
 👤 **Daniel Ufeli**
 
