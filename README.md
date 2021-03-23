@@ -21,15 +21,6 @@ you choose a number as visible on the board.
 
 Good luck...
 
-
-👤 **Promise Johnson**
-
-- GitHub: [promise-J](https://github.com/promise-J)
-- Twitter: [@twitterhandle](https://twitter.com/Promise94353263)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/promise-chiemela-788887142)
-bust_in_silhouette Johnson Promise
-
-
 👤 **Daniel Ufeli**
 
 - Github: [@danielufeli](https://github.com/danielufeli)
